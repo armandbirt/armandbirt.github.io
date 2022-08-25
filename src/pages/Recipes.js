@@ -9,7 +9,7 @@ export default function Recipes(){
     const recipes = [
         {
             title: "黄焖鸡米饭",
-            image: "/img/gallery/img_21.jpg",
+            image: "https://i.postimg.cc/kg4brxNm/img-21.jpg",
             breakfast_recipe: "早餐：一个 English Muffin + 煎蛋 + 咖啡",
             lunch_protein: "chicken",
             lunch_recipe: "午餐：黄焖鸡 + 蒜蓉 A 菜 + white rice", 
@@ -19,8 +19,8 @@ export default function Recipes(){
             snack_recipe: "加餐：ice cream",
         }, 
         {
-            title: "黄焖鸡米饭",
-            image: "/img/gallery/img_22.jpg",
+            title: "意大利肉酱面",
+            image: "https://i.postimg.cc/XYzynpxy/img-22.jpg",
             breakfast_recipe: "早餐：croissant",
             lunch_protein: "beef",
             lunch_recipe: "午餐：牛肉糜意面 + 菠菜", 

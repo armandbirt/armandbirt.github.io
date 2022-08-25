@@ -4,14 +4,14 @@ import CustomImage from "../components/CustomImage"
 
 export default function Message(){
     const images = [
-        "/img/gallery/img_11.jpg",
-        "/img/gallery/img_12.jpg",
-        "/img/gallery/img_13.jpg",
-        "/img/gallery/img_14.jpg",
-        "/img/gallery/img_15.jpg",
-        "/img/gallery/img_16.jpg",
-        "/img/gallery/img_17.jpg",
-        "/img/gallery/img_18.jpg"
+        "https://i.postimg.cc/4NG607Ff/img-11.jpg",
+        "https://i.postimg.cc/kX7SsrBD/img-12.jpg",
+        "https://i.postimg.cc/sXSW6sYG/img-13.jpg",
+        "https://i.postimg.cc/PrMWnXBm/img-14.jpg",
+        "https://i.postimg.cc/nLN7GCDt/img-15.jpg",
+        "https://i.postimg.cc/8cm6G4n1/img-16.jpg",
+        "https://i.postimg.cc/q766q4ZD/img-17.jpg",
+        "https://i.postimg.cc/HWw5bWWf/img-18.jpg"
     ]
 
     return (

@@ -3,15 +3,15 @@ import { Link } from "react-router-dom"
 
 export default function HeroSection(){
     const images = [
-        "/img/gallery/img_1.jpg",
-        "/img/gallery/img_2.jpg",
-        "/img/gallery/img_3.jpg",
-        "/img/gallery/img_4.jpg",
-        "/img/gallery/img_5.jpg",
-        "/img/gallery/img_6.jpg",
-        "/img/gallery/img_7.jpg",
-        "/img/gallery/img_8.jpg",
-        "/img/gallery/img_9.jpg"
+        "https://i.postimg.cc/pdrYBwcK/img-1.jpg",
+        "https://i.postimg.cc/nLWKS3Ng/img-2.jpg",
+        "https://i.postimg.cc/wjfD3WxM/img-3.jpg",
+        "https://i.postimg.cc/6qXvFgcj/img-4.jpg",
+        "https://i.postimg.cc/WzGM3Ttc/img-5.jpg",
+        "https://i.postimg.cc/k4r6tz0J/img-6.jpg",
+        "https://i.postimg.cc/7ZYgHvkj/img-7.jpg",
+        "https://i.postimg.cc/LXZtczpX/img-8.jpg",
+        "https://i.postimg.cc/5ydBb64m/img-9.jpg"
     ]
     return (
         <div className="section hero">

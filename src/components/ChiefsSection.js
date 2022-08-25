@@ -4,12 +4,12 @@ export default function ChiefsSection(){
     const chiefs = [
         {
             name: "Jiayi Su",
-            img: "/img/top-chiefs/img_1.jpg",
+            img: "https://i.postimg.cc/xd5hkVJH/img-1.jpg",
             role: "CEO & COO",
         },
         {
             name: "Ruobei Wang",
-            img: "/img/top-chiefs/img_2.jpg",
+            img: "https://i.postimg.cc/3Rw6mfmq/img-2.jpg",
             role: "Tech Lead",
         }
     ]

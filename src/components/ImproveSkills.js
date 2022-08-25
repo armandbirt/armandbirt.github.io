@@ -10,7 +10,7 @@ export default function ImproveSkills(){
     return (
         <div className="section improve-skills">
             <div className="col img">
-                <img src="/img/gallery/img_10.jpg" alt="" />
+                <img src="https://i.postimg.cc/fWm75jCq/img-10.jpg" alt="" />
             </div>
             <div className="col typography">
                 <h1 className="title">How Eaten Works</h1>
